@@ -1,0 +1,101 @@
+Fecha,Producto,Cantidad,NombreProducto,PrecioUnitario,NombreCliente
+2025-01-13,SKU1003,5,Teclado,29.99,Reynaldo Vigil Vall
+2025-04-07,SKU1010,6,Microfono,59.99,Adora Morante Navarro
+2024-06-12,SKU1006,4,Tablet,299.99,Ricardo Blanca-Bastida
+2024-11-26,SKU1002,1,Mouse,19.99,Danilo del Alberto
+2025-01-16,SKU1003,3,Teclado,29.99,Luis Ángel Noriega Rivas
+2024-07-09,SKU1003,3,Teclado,29.99,Samuel Miralles Rivas
+2025-03-30,SKU1007,10,Auriculares,49.99,Florinda Tomás
+2024-06-01,SKU1009,4,Camara Web,39.99,Elena Ugarte Pizarro
+2024-10-11,SKU1004,6,Monitor,199.99,Antonia Clarisa Roca Chaves
+2025-03-13,SKU1009,8,Camara Web,39.99,Trinidad Toledo Murcia
+2024-12-11,SKU1004,4,Monitor,199.99,Reynaldo Vigil Vall
+2024-06-18,SKU1009,8,Camara Web,39.99,Adora Morante Navarro
+2024-12-31,SKU1005,4,Impresora,149.99,Ricardo Blanca-Bastida
+2025-01-11,SKU1009,4,Camara Web,39.99,Danilo del Alberto
+2024-06-11,SKU1007,8,Auriculares,48.99,Luis Ángel Noriega Rivas
+2024-06-19,SKU1001,4,Laptop,799.99,Samuel Miralles Rivas
+2025-01-18,SKU1006,1,Tablet,299.99,Florinda Tomás
+2024-06-16,SKU1010,3,Camara,59.99,Elena Ugarte Pizarro
+2025-03-01,SKU1010,5,Camara,59.99,Antonia Clarisa Roca Chaves
+2024-10-22,SKU1001,8,Laptop,799.99,Trinidad Toledo Murcia
+2024-07-31,SKU1005,10,Impresora,149.99,Reynaldo Vigil Vall
+2024-05-02,SKU1004,2,Monitor,199.99,Adora Morante Navarro
+2024-05-19,SKU1001,3,Laptop,799.99,Ricardo Blanca-Bastida
+2024-05-19,SKU1007,1,Auriculares,49.99,Danilo del Alberto
+2024-10-18,SKU1003,2,Teclado,29.99,Luis Ángel Noriega Rivas
+2024-06-20,SKU1007,8,Auriculares,49.99,Samuel Miralles Rivas
+2024-10-30,SKU1004,9,Monitor,199.99,Florinda Tomás
+2024-10-31,SKU1007,10,Auriculares,49.99,Elena Ugarte Pizarro
+2024-07-02,SKU1007,10,Auriculares,49.99,Antonia Clarisa Roca Chaves
+2024-05-07,SKU1007,4,Auriculares,49.99,Trinidad Toledo Murcia
+2025-02-05,SKU1006,1,Tablet,299.99,Reynaldo Vigil Vall
+2024-05-28,SKU1009,4,Camara Web,39.99,Adora Morante Navarro
+2025-03-28,SKU1002,8,Mouse,19.99,Ricardo Blanca-Bastida
+2024-08-31,SKU1007,6,Auriculares,49.99,Danilo del Alberto
+2024-07-11,SKU1002,6,Mouse,19.99,Luis Ángel Noriega Rivas
+2024-04-16,SKU1003,9,Teclado,29.99,Samuel Miralles Rivas
+2024-06-16,SKU1006,1,Tablet,299.99,Florinda Tomás
+2024-12-10,SKU1007,1,Auriculares,49.99,Elena Ugarte Pizarro
+2024-05-13,SKU1005,1,Impresora,149.99,Antonia Clarisa Roca Chaves
+2024-09-02,SKU1009,9,Camara Web,39.99,Trinidad Toledo Murcia
+2024-04-20,SKU1010,4,Camara,59.99,Reynaldo Vigil Vall
+2024-04-24,SKU1009,5,Camara Web,39.99,Adora Morante Navarro
+2024-10-25,SKU1008,6,Disco Duro,89.99,Ricardo Blanca-Bastida
+2025-02-19,SKU1008,6,Disco Duro,89.99,Danilo del Alberto
+2024-12-27,SKU1002,6,Mouse,19.99,Luis Ángel Noriega Rivas
+2024-09-19,SKU1007,3,Auriculares,49.99,Samuel Miralles Rivas
+2024-10-05,SKU1010,9,Camara,59.99,Florinda Tomás
+2024-08-06,SKU1006,4,Tablet,299.99,Elena Ugarte Pizarro
+2024-05-18,SKU1009,4,Camara Web,39.99,Antonia Clarisa Roca Chaves
+2024-09-17,SKU1001,10,Laptop,799.99,Trinidad Toledo Murcia
+2025-03-23,SKU1001,4,Laptop,799.99,Reynaldo Vigil Vall
+2024-10-31,SKU1005,9,Impresora,149.99,Adora Morante Navarro
+2025-01-29,SKU1005,5,Impresora,149.99,Ricardo Blanca-Bastida
+2024-06-12,SKU1003,3,Teclado,29.99,Danilo del Alberto
+2025-02-09,SKU1008,3,Disco Duro,89.99,Luis Ángel Noriega Rivas
+2024-11-10,SKU1010,8,Camara,59.99,Samuel Miralles Rivas
+2025-02-14,SKU1003,5,Teclado,29.99,Florinda Tomás
+2024-04-24,SKU1005,3,Impresora,149.99,Elena Ugarte Pizarro
+2025-04-04,SKU1007,7,Auriculares,49.99,Antonia Clarisa Roca Chaves
+2025-02-15,SKU1010,4,Camara,59.99,Trinidad Toledo Murcia
+2024-06-19,SKU1002,4,Mouse,19.99,Reynaldo Vigil Vall
+2024-05-09,SKU1007,1,Auriculares,49.99,Adora Morante Navarro
+2025-01-07,SKU1004,7,Monitor,199.99,Ricardo Blanca-Bastida
+2024-11-19,SKU1009,1,Camara Web,39.99,Danilo del Alberto
+2024-08-16,SKU1007,8,Auriculares,49.99,Luis Ángel Noriega Rivas
+2024-08-30,SKU1008,1,Disco Duro,89.99,Samuel Miralles Rivas
+2025-02-27,SKU1007,5,Auriculares,49.99,Florinda Tomás
+2024-07-11,SKU1005,5,Impresora,149.99,Elena Ugarte Pizarro
+2024-09-04,SKU1006,10,Tablet,299.99,Antonia Clarisa Roca Chaves
+2025-02-28,SKU1002,7,Mouse,19.99,Trinidad Toledo Murcia
+2024-12-16,SKU1003,7,Teclado,29.99,Reynaldo Vigil Vall
+2024-11-02,SKU1001,5,Laptop,799.99,Adora Morante Navarro
+2024-08-08,SKU1010,9,Camara,59.99,Ricardo Blanca-Bastida
+2024-12-07,SKU1009,10,Camara Web,39.99,Danilo del Alberto
+2024-06-12,SKU1010,3,Camara,59.99,Luis Ángel Noriega Rivas
+2024-05-11,SKU1006,9,Tablet,299.99,Samuel Miralles Rivas
+2024-04-15,SKU1006,5,Tablet,299.99,Florinda Tomás
+2024-09-24,SKU1005,2,Impresora,149.99,Elena Ugarte Pizarro
+2024-06-04,SKU1002,9,Mouse,19.99,Antonia Clarisa Roca Chaves
+2024-09-25,SKU1004,1,Monitor,199.99,Trinidad Toledo Murcia
+2024-09-27,SKU1002,7,Mouse,19.99,Reynaldo Vigil Vall
+2024-12-16,SKU1008,4,Disco Duro,89.99,Adora Morante Navarro
+2024-07-26,SKU1002,8,Mouse,19.99,Ricardo Blanca-Bastida
+2025-02-25,SKU1003,8,Teclado,29.99,Danilo del Alberto
+2024-10-23,SKU1002,5,Mouse,19.99,Luis Ángel Noriega Rivas
+2024-07-27,SKU1008,3,Disco Duro,89.99,Samuel Miralles Rivas
+2024-10-26,SKU1007,6,Auriculares,49.99,Florinda Tomás
+2024-07-29,SKU1006,6,Tablet,299.99,Elena Ugarte Pizarro
+2024-12-01,SKU1004,4,Monitor,199.99,Antonia Clarisa Roca Chaves
+2024-04-13,SKU1008,1,Disco Duro,89.99,Trinidad Toledo Murcia
+2024-11-26,SKU1010,4,Camara,59.99,Reynaldo Vigil Vall
+2024-08-14,SKU1005,2,Impresora,149.99,Adora Morante Navarro
+2025-02-22,SKU1006,5,Tablet,299.99,Ricardo Blanca-Bastida
+2024-08-06,SKU1009,3,Camara Web,39.99,Danilo del Alberto
+2024-07-01,SKU1007,7,Auriculares,49.99,Luis Ángel Noriega Rivas
+2024-08-30,SKU1008,4,Disco Duro,89.99,Samuel Miralles Rivas
+2024-04-16,SKU1006,10,Tablet,299.99,Florinda Tomás
+2025-01-10,SKU1007,10,Auriculares,49.99,Elena Ugarte Pizarro
+2024-05-03,SKU1009,7,Camara Web,39.99,Antonia Clarisa Roca Chaves
+2024-09-18,SKU1001,2,Laptop,799.99,Trinidad Toledo Murcia

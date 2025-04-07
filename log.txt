@@ -1,0 +1,25 @@
+REPORTE DE VENTAS - 06-04-2025 05:06:01
+
+1. Total de ventas por mes:
+2024-04: $5749.63
+2024-05: $6549.64
+2024-06: $6681.41
+2024-07: $5539.42
+2024-08: $3309.63
+2024-09: $13749.56
+2024-10: $12789.30
+2024-11: $4779.81
+2024-12: $3339.60
+2025-01: $3349.65
+2025-02: $3629.56
+2025-03: $4479.65
+2025-04: $709.87
+
+2. Producto más vendido:
+Auriculares (105 unidades)
+
+3. Monto total anual:
+Total anual: $74656.73
+
+4. Cliente más frecuente:
+Elena Ugarte Pizarro (10 compras)
